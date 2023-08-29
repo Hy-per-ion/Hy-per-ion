@@ -22,7 +22,7 @@
 ```
 
 # 👋 Welcome to My GitHub Profile! 🚀
-<img src="(https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)" alt="line" width="100%">
+
 Hello there! 👋 I'm Kaushik C, a dedicated Full Stack Developer with a strong focus on AI/ML and a passion for mastering Data Structures and Algorithms. 🌟 My journey revolves around turning ideas into functional and efficient solutions. 💻
 
 ## 🛠️ Tech Stack & Tools 🧰
