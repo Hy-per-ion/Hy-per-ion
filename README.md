@@ -89,5 +89,6 @@ Thanks for visiting! Feel free to explore my repositories, contribute, and let's
 <!--- -- 💜 Thanks For Visiting --------------------------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
+  [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
   <img src="your_creative_image_or_gif_url_here" alt="Coding GIF" width="50%">
 </div>
