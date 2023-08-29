@@ -86,9 +86,7 @@ I'm enthusiastic about connecting with fellow developers and tech enthusiasts:
 ## 🎉 Thank You! 🎉
 
 Thanks for visiting! Feel free to explore my repositories, contribute, and let's collaborate to build exciting tech solutions! 🌟
-<!--- -- 💜 Thanks For Visiting --------------------------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
-  [SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-  <img src="(https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)" alt="Coding GIF" width="50%">
+  <img src="(https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)" alt="Coding" width="50%">
 </div>
