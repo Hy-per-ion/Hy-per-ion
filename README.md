@@ -87,6 +87,6 @@ I'm enthusiastic about connecting with fellow developers and tech enthusiasts:
 
 Thanks for visiting! Feel free to explore my repositories, contribute, and let's collaborate to build exciting tech solutions! 🌟
 
-<!--<div align="center">
-  <img src="(https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)" alt="Coding" width="50%">
-</div>-->
+<div align="center">
+  <img src="file:///C:/Users/Kaushik/Downloads/github.svg" alt="Coding" width="50%">
+</div>
