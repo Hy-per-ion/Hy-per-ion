@@ -88,5 +88,5 @@ I'm enthusiastic about connecting with fellow developers and tech enthusiasts:
 Thanks for visiting! Feel free to explore my repositories, contribute, and let's collaborate to build exciting tech solutions! 🌟
 
 <div align="center">
-  <img src="file:///C:/Users/Kaushik/Downloads/github.svg" alt="Coding" width="50%">
+  <img src="github.svg" alt="Coding" width="50%">
 </div>
