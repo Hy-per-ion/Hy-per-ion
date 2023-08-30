@@ -81,7 +81,7 @@ Here are some of my recent undertakings that showcase my skills:
 
 I'm enthusiastic about connecting with fellow developers and tech enthusiasts:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hy-per-ion) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaushik123/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/KaushikC17) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__kaushik.c__/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/kaushik_css/)
+[<img src='github logo.svg' alt='github' height='40'>](https://github.com/Hy-per-ion) [<img src='linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaushik123/) [<img src='x.svg' alt='x' height='40'>](https://twitter.com/KaushikC17) [<img src='instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__kaushik.c__/) [<img src='reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/kaushik_css/)
 
 ## 🎉 Thank You! 🎉
 
