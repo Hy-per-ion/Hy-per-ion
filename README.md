@@ -88,5 +88,5 @@ I'm enthusiastic about connecting with fellow developers and tech enthusiasts:
 Thanks for visiting! Feel free to explore my repositories, contribute, and let's collaborate to build exciting tech solutions! 🌟
 
 <div align="center">
-  <img src="github.svg" alt="Coding" width="80%">
+  <img src="github.svg" alt="Coding" height="50%" width="80%">
 </div>
