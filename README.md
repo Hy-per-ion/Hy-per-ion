@@ -81,12 +81,12 @@ Here are some of my recent undertakings that showcase my skills:
 
 I'm enthusiastic about connecting with fellow developers and tech enthusiasts:
 
-[<img src='github logo.svg' alt='github' height='40'>](https://github.com/Hy-per-ion) [<img src='linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaushik123/) [<img src='x.svg' alt='x' height='40'>](https://twitter.com/KaushikC17) [<img src='instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__kaushik.c__/) [<img src='reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/kaushik_css/)
+[<img src='github logo.svg' alt='github' height='60'>](https://github.com/Hy-per-ion) [<img src='linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaushik123/) [<img src='twitter.png' alt='twitter' height='40'>](https://twitter.com/KaushikC17) [<img src='instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__kaushik.c__/) [<img src='reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/kaushik_css/)
 
 ## 🎉 Thank You! 🎉
 
 Thanks for visiting! Feel free to explore my repositories, contribute, and let's collaborate to build exciting tech solutions! 🌟
 
 <div align="center">
-  <img src="github.svg" alt="Coding" height="50%" width="80%">
+  <img src="github.svg" alt="Coding" height="40%" width="100%">
 </div>
