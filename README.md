@@ -30,17 +30,19 @@ My toolbox is well-equipped with a wide range of technologies and tools:
 
 **Languages**: JavaScript, Python, Java, C++, C
 
-**Frontend**: React, Angular, HTML, CSS, Bootstrap
+**Frontend**: React, Angular, HTML, CSS, Bootstrap, Tailwind
 
 **Backend**: Node.js, Express, Flask
 
-**AI/ML Frameworks**: TensorFlow, PyTorch, Scikit-Learn
+**AI/ML Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Keras
 
 **Databases**: MongoDB, MySQL
 
+**DevOps**: Docker, kubernetes
+
 **Version Control**: Git, GitHub
 
-**IDEs**: VS Code, PyCharm, IntelliJ, Jupyter Notebook
+**IDEs**: VS Code, PyCharm, IntelliJ, Jupyter Notebook, Eclipse, Brackets, Sublime
 
 ## 🚀 What I Do Here ⚡
 
