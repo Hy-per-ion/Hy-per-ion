@@ -82,7 +82,7 @@ Here are some of my recent undertakings that showcase my skills:
 
 I'm enthusiastic about connecting with fellow developers and tech enthusiasts:
 
-[<img src='github logo.svg' alt='github' height='100'>](https://github.com/Hy-per-ion) [<img src='linkedin.svg' alt='linkedin' height='100'>](https://www.linkedin.com/in/kaushik123/) [<img src='twitter.png' alt='twitter' height='100'>](https://twitter.com/KaushikC17) [<img src='instagram.svg' alt='instagram' height='100'>](https://www.instagram.com/__kaushik.c__/) [<img src='reddit.svg' alt='Reddit' height='100'>](https://www.reddit.com/user/kaushik_css/)
+[<img src='github logo.svg' alt='github' height='100'>](https://github.com/Hy-per-ion) [<img src='linkedin.svg' alt='linkedin' height='100'>](https://www.linkedin.com/in/kaushik123/) [<img src='twitter.png' alt='twitter' height='100'>](https://twitter.com/Kaushik_css) [<img src='instagram.svg' alt='instagram' height='100'>](https://www.instagram.com/__kaushik.c__/) [<img src='reddit.svg' alt='Reddit' height='100'>](https://www.reddit.com/user/kaushik_css/)
 
 ## 🎉 Thank You! 🎉
 
